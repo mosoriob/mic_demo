@@ -5,7 +5,7 @@ class: CommandLineTool
 cwlVersion: v1.1
 hints:
   DockerRequirement:
-    dockerImageId: mosorio/r2d-2ftmp-2frepo2cwl-5ffwc54a0w-2frepo1602082874:latest
+    dockerImageId: mosorio/r2d-2ftmp-2frepo2cwl-5ffwc54a0w-2frepo1602082874
 inputs:
   case:
     inputBinding:
