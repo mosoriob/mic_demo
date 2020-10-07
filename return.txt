@@ -1,0 +1,3 @@
+Number line: 4
+Case: 2
+Hydr: 2

@@ -1,0 +1,7 @@
+name: pyclass
+channels:
+  - conda-forge
+dependencies:
+  - pip
+  - pip:
+    - ipython2cwl
