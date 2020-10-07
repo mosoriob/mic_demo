@@ -1,0 +1,24 @@
+step: 1
+mint_component: https://raw.githubusercontent.com/mosoriob/mic_demo/master/example.cwl 
+docker_image: mosorio/r2d-2ftmp-2frepo2cwl-5ffwc54a0w-2frepo1602082874:latest
+inputs:
+  example_file:
+    name: example_file
+    description: ''
+outputs:
+  output_file:
+    name: output_file
+    path: ''
+    description: ''
+parameters:
+  case:
+    name: case
+    default_value: 2
+    type: int
+    description: ''
+  hydr:
+    name: hydr
+    default_value: '2'
+    type: str
+    description: ''
+name: cwl_demo

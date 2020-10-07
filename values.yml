@@ -1,0 +1,6 @@
+case: 2
+conc: 30
+example_file:
+        class: File
+        path: "example.txt"
+hydr: "2"
